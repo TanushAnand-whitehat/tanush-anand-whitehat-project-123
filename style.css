@@ -1,0 +1,24 @@
+h3 {
+        box-shadow: 10px 10px 8px darkgray;
+        width: 75%;
+        color: white;
+        }
+    .info {
+    color: black;
+    font-size: 15px;
+    }
+    canvas {
+        border: 2px solid black;
+        box-shadow: 7px 7px 7px darkgray;
+    }
+    .footer {
+        position: fixed;
+        bottom: 0;
+        color: white;
+        background-color: darkgray;
+        width: 100%;
+        text-align: center;
+    }
+    #body{
+        background-color: black;
+    }
